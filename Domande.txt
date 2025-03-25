@@ -1,0 +1,23 @@
+1) Un algoritmo è semplicemente una ricetta o un insieme di istruzioni che segui per fare qualcosa, come preparare un piatto, ogni passo è ben definito e deve essere eseguito in un certo ordine per ottenere il risultato giusto.
+
+Immaginiamo di volere preparare dei biscotti, dobbiamo seguire la ricetta passo passo, non possiamo saltare uno di questi passi altrimenti faremmo dei biscotti pessimi  
+
+
+2) immaginiamo una variabile come se fosse una scatola a cui diamo un nome, dentro questa scatola possiamo mettere un oggetto quest'oggetto puo essere qualsiasi cosa, una parola, un numero una lista di cose da fare, la differenza di variabile a una costante e che la variabile come dice la parola puo essere cambiata ogni volta che noi vogliamo invece della costante che rimane fissa quella per tutto il procedimento, esempio piu banale l'eta di una persona è una variabile con il tempo si cresce è gli anni vanno avanti quindi il "numero" sarà quest'anno 25 l'anno prossimo 26.
+
+ 
+3)No, non sono la stessa cosaà
+
+undefined: siusa quando una varabiale è dichiarata, una variabile che esiste ma non ha un valore specifico sarà undefined
+
+esempio.. let x;
+          console.log(x) 
+
+questo stamperà undefined
+
+null: si usa per rappresentare intenzionalmente l'assenza di valore, è il valore che il programmatore puo assegnare ad una variabile per indicare che in quella variabile non ha nessun valore pero questo è una cosa voluta dal programmatore stesso che ha impostato nulla
+
+esempio.. let y = null
+          console.log(y); 
+
+questo stamperà null
